@@ -15,5 +15,5 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 
 git clone https://github.com/getumbrel/llama-gpt.git
 cd llama-gpt
-sudo ./run.sh --model 34b
+sudo ./run.sh --model 34B
 
